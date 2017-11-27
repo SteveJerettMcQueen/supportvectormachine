@@ -3,7 +3,7 @@
 The purpose of this project is to apply a known supervised classification technique
 for Natural Language Processing problems. Specifically, the supervised
 classification technique used for this problem will be a 
-Support Vector Machine Classifier
+Linear Support Vector Machine Classifier
 
 ### Installing
 
