@@ -1,0 +1,104 @@
+---------------------------------------------------------------------
+Date: 11-29-2017
+Data Set: 600
+X Tranining Set: 420 ; X Test Set: 180
+Y Tranining Set: 420 ; Y Test Set: 180
+
+Linear Accuracy: 0.7778
+Confusioin Matrix: [ 24  27  13 116]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.65      0.47      0.55        51
+       Male       0.81      0.90      0.85       129
+
+avg / total       0.77      0.78      0.77       180
+
+Radial Basis Function Accuracy: 0.7611
+Confusioin Matrix: [ 10  41   2 127]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.83      0.20      0.32        51
+       Male       0.76      0.98      0.86       129
+
+avg / total       0.78      0.76      0.70       180
+
+---------------------------------------------------------------------
+Date: 11-29-2017
+Data Set: 3000
+X Tranining Set: 2100 ; X Test Set: 900
+Y Tranining Set: 2100 ; Y Test Set: 900
+
+Linear Accuracy: 0.7056
+Confusioin Matrix: [ 97 200  65 538]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.60      0.33      0.42       297
+       Male       0.73      0.89      0.80       603
+
+avg / total       0.69      0.71      0.68       900
+
+Radial Basis Function Accuracy: 0.7200
+Confusioin Matrix: [ 91 206  46 557]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.66      0.31      0.42       297
+       Male       0.73      0.92      0.82       603
+
+avg / total       0.71      0.72      0.68       900
+
+---------------------------------------------------------------------
+Date: 11-29-2017
+Data Set: 5644
+X Tranining Set: 3950 ; X Test Set: 1694
+Y Tranining Set: 3950 ; Y Test Set: 1694
+
+Linear Accuracy: 0.6966
+Confusioin Matrix: [ 175  432   82 1005]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.68      0.29      0.41       607
+       Male       0.70      0.92      0.80      1087
+
+avg / total       0.69      0.70      0.66      1694
+
+Radial Basis Function Accuracy: 0.6972
+Confusioin Matrix: [ 171  436   77 1010]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.69      0.28      0.40       607
+       Male       0.70      0.93      0.80      1087
+
+avg / total       0.70      0.70      0.66      1694
+
+---------------------------------------------------------------------
+Date: 11-29-2017
+Data Set: 12078
+X Tranining Set: 8454 ; X Test Set: 3624
+Y Tranining Set: 8454 ; Y Test Set: 3624
+
+Linear Accuracy: 0.6769
+Confusioin Matrix: [1303  571  600 1150]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.68      0.70      0.69      1874
+       Male       0.67      0.66      0.66      1750
+
+avg / total       0.68      0.68      0.68      3624
+
+Radial Basis Function Accuracy: 0.7031
+Confusioin Matrix: [1270  604  472 1278]
+Classification Report:
+             precision    recall  f1-score   support
+
+     Female       0.73      0.68      0.70      1874
+       Male       0.68      0.73      0.70      1750
+
+avg / total       0.70      0.70      0.70      3624
+
