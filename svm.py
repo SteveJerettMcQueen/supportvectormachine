@@ -58,7 +58,6 @@ f.write("\n")
 f.write("Linear Accuracy: " + "{0:.4f}".format(acc) + "\n")
 f.write("Confusioin Matrix: " + str(cfm.ravel()) + "\n")
 f.write("Classification Report:\n" + report + "\n")
-f.write("\n")
 
 # Write Radial Basis metrics
 f.write("Radial Basis Function Accuracy: " + "{0:.4f}".format(acc2) + "\n")
